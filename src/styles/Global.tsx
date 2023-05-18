@@ -84,8 +84,8 @@ export const GlobalStyle = ({ children }: GlobalStyleProps): JSX.Element => {
 
   const theme = createTheme({
     colors: {
-      brand1: "#623CEA",
-      brand2: "#311E75",
+      brand1: "#eacd3c",
+      brand2: "#534e68",
 
       grey0: "#0A0A0B",
       grey1: "#121214",
